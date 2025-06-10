@@ -2,7 +2,7 @@
 
 Günümüzde sosyal medya, sadece içerik üretme değil, aynı zamanda bireylerin özel hayatını açık etme (ya da yanlış şekilde yayma) alanına dönüşmüştür.
 <a href="https://rebrand.ly/46abiuv" title="Türk İfşalar 2025">
-  <img src="https://ibb.co/FkVMGJhr" alt="Türk İfşalar 2025" style="max-width: 100%; border: 3px solid #ffd700; border-radius: 15px; box-shadow: 0px 0px 20px rgba(255, 215, 0, 0.6);">
+  <img src="https://i.postimg.cc/ZYHrYCgZ/maxresdefault-1.jpg" alt="Türk İfşalar 2025" style="max-width: 100%; border: 3px solid #ffd700; border-radius: 15px; box-shadow: 0px 0px 20px rgba(255, 215, 0, 0.6);">
 </a>
 
 ## 🔐 Dijital Mahremiyet Nedir?
